@@ -17,7 +17,10 @@
   Hi, I’m Ashton, a 2nd-year Computer Science student.<br>
   <strong>Passionate about Linux, Cloud, and DevOps</strong>, building my skills in system administration and automation.
 </p>
-<img alt="Linkedin" src= "https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white" />
+
+<a href="https://www.linkedin.com/in/ashton-guevarra" target="_blank">
+  <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%235e81ac?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <br>
 
