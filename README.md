@@ -1,3 +1,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=58ABF7&center=true&width=437&lines=Ashton+Guevarra)](https://git.io/typing-svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashtonguevarra&theme=nord&hide_border=true&date_format=j%2Fn%5B%2FY%5D&card_width=499)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashtonguevarra&theme=nord&border_radius=4.1&date_format=j%2Fn%5B%2FY%5D&card_width=499&card_height=197)](https://git.io/streak-stats)
