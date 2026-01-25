@@ -18,7 +18,7 @@
   <strong>Passionate about Linux, Cloud, and DevOps</strong>, building my skills in system administration and automation.
 </p>
 
-<a href="https://www.linkedin.com/in/ashton-guevarra" target="_blank">
+<a href="https://www.linkedin.com/in/ashton-guevarra-872a51298" target="_blank">
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%235e81ac?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
