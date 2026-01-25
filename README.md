@@ -41,8 +41,15 @@
   <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
+#
 <br />
 
 ### ☁️ STATS ☁️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtonguevarra&layout=donut&theme=nord)
+<p align="left">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord&hide_border=true" />
+</p>
+
+<p align="left">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashtonguevarra&layout=donut&theme=nord&hide_border=true" />
+</p>
+
