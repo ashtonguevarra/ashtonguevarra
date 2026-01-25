@@ -13,6 +13,12 @@
 </p>
 
 <hr style="border: 3px solid #5e81ac;">
+<p align="center">
+  Hi, I’m Ashton, a 2nd-year Computer Science student.<br>
+  <strong>Passionate about Linux, Cloud, and DevOps</strong>, building my skills in system administration and automation.
+</p>
+
+<br>
 
 <br />
 
@@ -23,6 +29,8 @@
   <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Arch Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="Ubuntu" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Bash" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
