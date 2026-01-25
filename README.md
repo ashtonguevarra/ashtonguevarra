@@ -43,3 +43,4 @@
 
 ### ☁️ STATS ☁️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtonguevarra&layout=compact&theme=nord)
