@@ -12,7 +12,6 @@
     />
 </p>
 
-<!-- Thick line -->
 <hr style="border: 3px solid #5e81ac;">
 
 <br />
@@ -32,12 +31,9 @@
   <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
-<!-- Thick line -->
-<hr style="border: 3px solid #5e81ac;">
-
 <br />
 
-## ☁️ STATS ☁️
+### ☁️ STATS ☁️
 
 <p align="left">
   <a href="https://git.io/streak-stats">
