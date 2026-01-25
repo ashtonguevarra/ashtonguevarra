@@ -14,8 +14,7 @@
 
 <br />
 
-### TOOLS
-### TOOLS
+### ☁️ TOOLS ☁️
 <p align="left">
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,7 +32,7 @@
 
 <br />
 
-## STATS
+## ☁️ STATS ☁️
 
 <p align="left">
   <a href="https://git.io/streak-stats">
