@@ -42,12 +42,4 @@
 <br />
 
 ### ☁️ STATS ☁️
-
-<p align="left">
-  <a href="https://git.io/streak-stats">
-    <img
-      src="https://github-readme-streak-stats-lilac-mu.vercel.app?user=ashtonguevarra&theme=nord&hide_border=true&border_radius=3.5&date_format=n%2Fj%5B%2FY%5D"
-      alt="GitHub Streak"
-    />
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord)
