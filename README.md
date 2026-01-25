@@ -17,6 +17,7 @@
   Hi, I’m Ashton, a 2nd-year Computer Science student.<br>
   <strong>Passionate about Linux, Cloud, and DevOps</strong>, building my skills in system administration and automation.
 </p>
+<img alt="Linkedin" src= "https://custom-icon-badges.demolab.com/badge/-Use%20GitHub%20Action-blue?style=for-the-badge&logo=workflow&logoColor=white" />
 
 <br>
 
