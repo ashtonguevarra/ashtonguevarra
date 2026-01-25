@@ -11,9 +11,8 @@
       alt="Typing SVG"
     />
 </p>
----
 <br />
-
+---
 ### ☁️ TOOLS ☁️
 <p align="left">
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
