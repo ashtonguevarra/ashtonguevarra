@@ -11,7 +11,10 @@
       alt="Typing SVG"
     />
 </p>
----
+
+<!-- Thick line -->
+<hr style="border: 3px solid #5e81ac;">
+
 <br />
 
 ### ☁️ TOOLS ☁️
@@ -29,6 +32,8 @@
   <img alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </p>
 
+<!-- Thick line -->
+<hr style="border: 3px solid #5e81ac;">
 
 <br />
 
