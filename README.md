@@ -11,7 +11,6 @@
       alt="Typing SVG"
     />
 </p>
-
 <hr style="border: 3px solid #5e81ac;">
 <p align="center">
   Hi, I’m Ashton, a 2nd-year Computer Science student.<br>
@@ -22,10 +21,10 @@
   <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-%235e81ac?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br>
+# 
 <br />
 
-## ☁️ TOOLS ☁️
+### ☁️ TOOLS ☁️
 <p align="left">
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -44,6 +43,6 @@
 
 <br />
 
-## ☁️ STATS ☁️
+### ☁️ STATS ☁️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtonguevarra&layout=donut&theme=nord)
