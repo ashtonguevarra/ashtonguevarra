@@ -23,10 +23,9 @@
 </a>
 
 <br>
-#
 <br />
 
-### ☁️ TOOLS ☁️
+## ☁️ TOOLS ☁️
 <p align="left">
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -45,6 +44,6 @@
 
 <br />
 
-### ☁️ STATS ☁️
+## ☁️ STATS ☁️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashtonguevarra&layout=donut&theme=nord)
