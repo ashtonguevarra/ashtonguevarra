@@ -12,11 +12,17 @@
   />
 </p>
 
-<h3 align="center">TOOLS</h3>
+---
+
+### 🛠️ Tools
 
 <p align="center">
   <img src="assets/icons/git.svg" width="28" alt="Git" />
 </p>
+
+---
+
+### 🔥 GitHub Activity
 
 <p align="center">
   <a href="https://git.io/streak-stats">
