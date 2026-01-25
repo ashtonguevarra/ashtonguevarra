@@ -14,11 +14,8 @@
 
 <br />
 
-<hr />
-
-<h2 align="center">🛠️ TOOLS</h2>
-
-<p align="center">
+### TOOLS
+<p align="left">
   <img alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="Arch Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
@@ -28,9 +25,9 @@
 
 <br />
 
-<h2 align="center">🔥 GitHub Activity</h2>
+## STATS
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/streak-stats">
     <img
       src="https://github-readme-streak-stats-lilac-mu.vercel.app?user=ashtonguevarra&theme=nord&hide_border=true&border_radius=3.5&date_format=n%2Fj%5B%2FY%5D"
