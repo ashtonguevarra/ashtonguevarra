@@ -8,23 +8,27 @@
   <br />
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&duration=5001&color=5e81ac&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+%26+DevOps+Engineer"
-    alt="Typing SVG"
-  />
+      alt="Typing SVG"
+    />
 </p>
- <br />
 
----
-## TOOLS
-<p align="center">
-  <img alt="Java" width="60px" style="padding-right:70px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Java" width="60px" style="padding-right:70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="Java" width="60px" style="padding-right:70px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-  <img alt="Java" width="60px" style="padding-right:70px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img alt="Java" width="60px" style="padding-right:70px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-</p>
 <br />
 
-### 🔥 GitHub Activity
+<hr />
+
+<h2 align="center">🛠️ TOOLS</h2>
+
+<p align="center">
+  <img alt="Git" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Arch Linux" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img alt="Bash" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+  <img alt="Vim" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
+</p>
+
+<br />
+
+<h2 align="center">🔥 GitHub Activity</h2>
 
 <p align="center">
   <a href="https://git.io/streak-stats">
