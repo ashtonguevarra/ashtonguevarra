@@ -22,7 +22,7 @@ Hi, I’m Ashton, a 2nd-year Computer Science student. <strong>Passionate about 
 
 <br/>
 
-<h2 align="center">☁️ Tools I Use</h2>
+<h2 align="center">☁️ TOOLS </h2>
 <p align="center">
   <img alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Linux" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
@@ -34,7 +34,7 @@ Hi, I’m Ashton, a 2nd-year Computer Science student. <strong>Passionate about 
 </p>
 <br/>
 
-<h2 align="center">☁️ GitHub Stats</h2>
+<h2 align="center">☁️ STATISTICS</h2>
 <p align="left">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=nord" width="48%" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats-lilac-mu.vercel.app?user=ashtonguevarra&theme=nord&date_format=j%2Fn%5B%2FY%5D" width="48%" />
