@@ -11,11 +11,14 @@
     alt="Typing SVG"
   />
 </p>
+ <br />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&duration=5001&color=5e81ac&center=true&vCenter=true&width=435&lines=Tools"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
-
-### 🛠️ Tools
-
 <p align="center">
   <img alt="Java" width="60px" style="padding-right:20px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Java" width="60px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
@@ -24,7 +27,7 @@
   <img alt="Java" width="60px" style="padding-right:20px;" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
 </p>
 <br />
-
+---
 ### 🔥 GitHub Activity
 
 <p align="center">
