@@ -46,7 +46,7 @@
 </p>
 <br/>
 
-<h2 align="left"> 📈 Statistics Flex</h2>
+<h2 align="left"> 🚀 Statistics Flex</h2>
 <p align="left">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ashtonguevarra&show_icons=true&theme=holi" width="48%" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats-lilac-mu.vercel.app?user=ashtonguevarra&theme=holi-theme&date_format=j%2Fn%5B%2FY%5D" width="48%" />
