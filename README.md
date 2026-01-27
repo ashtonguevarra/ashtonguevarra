@@ -13,7 +13,7 @@
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120" />
 <ul>
   <li>Second-year Computer Science student</li>
-  <li>Building Linux and cloud computing skills (AWS, Docker, CI/CD)</li>
+  <li>Building Linux and cloud computing skills</li>
   <li>I like old ThinkPads, Linux, and a warm cup of tea ☕</li>
 </ul>
 </div>
