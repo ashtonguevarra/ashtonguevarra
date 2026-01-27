@@ -13,7 +13,7 @@
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120" />
 <ul>
   <li>Second-year Computer Science student</li>
-  <li>Developing skills in Linux, cloud computing, system administration, and automation</li>
+  <li>Building skills across Linux, cloud computing, system administration, automation, DevOps practices, and web application development.</li>
   <li>I like old ThinkPads, Linux, and a warm cup of tea ☕</li>
 </ul>
 </div>
