@@ -9,7 +9,7 @@
 <code> Fixer, Curious, Breaking things only to fix them better.</code>
 
 <div align="left">
-<h2 align="left"> ☁️ About me </h2>
+<h2 align="left"> 🧙‍♂️ About me </h2>
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120" />
 <ul>
   <li>Second-year Computer Science student</li>
@@ -31,7 +31,7 @@
 
 <hr style="border: 3px solid #5e81ac;">
 
-<h2 align="left"> 🧠 Tools and Languages </h2>
+<h2 align="left"> ☁️ Tools and Languages </h2>
 <p align="left">
   <img alt="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
