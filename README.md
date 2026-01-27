@@ -12,10 +12,9 @@
 <h2 align="left"> ☁️ About me </h2>
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120" />
 <ul>
-  <li>Hi, I’m Ashton a 2nd-year Computer Science student</li>
-  <li>Building skills in cloud, system administration and automation</li>
-  <li>I study Linux every day, focusing on consistency and fundamentals</li>
-  <li>I like ThinkPads, Linux, and a warm cup of tea ☕</li>
+  <li>Second-year Computer Science student</li>
+  <li>Developing skills in Linux, cloud computing, system administration, and automation</li>
+  <li>I like old ThinkPads, Linux, and a warm cup of tea ☕</li>
 </ul>
 </div>
 
