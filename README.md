@@ -14,12 +14,10 @@
 <ul>
   <li><i>Currently</i>: CS Student at FEU Institute of Technology</li>
   <li><i>Currently Learning</i>:</li>
-  <li><li>
   - CS0017 Applied Operating System
   - CS0007 Algorithms
   - CS0021 Discrete Structures 2
   - CCS0101 Design Thinking 
-  </li></li>
   <li>Building Linux and cloud computing skills</li>
   <li>I like old ThinkPads, Linux, and a warm cup of tea ☕</li>
 </ul>
