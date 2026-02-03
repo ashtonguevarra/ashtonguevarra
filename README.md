@@ -12,15 +12,22 @@
 <h2 align="left"> 🧙‍♂️ About me </h2>
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120" />
 <ul>
-  <p><i>Currently</i>: CS Student at FEU Institute of Technology</p>
-  <p><i>Currently Learning</i>:</p>
-  <li>CS0017 Applied Operating System</li>
-  <li>CS0007 Algorithms</li>
-  <li>CS0021 Discrete Structures 2</li>
-  <li>CCS0101 Design Thinking </li>
-  <p>Building Linux and cloud computing skills</p>
-  <p>I like old ThinkPads, Linux, and a warm cup of tea ☕</p>
+  <li><i>Currently</i>: CS Student at FEU Institute of Technology</li>
+  
+  <li>
+  <i>Currently Learning</i>:
+    <ul>
+      <li>CS0017 Applied Operating System</li>
+      <li>CS0007 Algorithms</li>
+      <li>CS0021 Discrete Structures 2</li>
+      <li>CCS0101 Design Thinking </li>
+    </ul>
+  </li>
+  
+  <li>Building Linux and cloud computing skills</li>
+  <li>I like old ThinkPads, Linux, and a warm cup of tea ☕</li>
 </ul>
+
 </div>
 
 <br/>
