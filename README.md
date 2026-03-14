@@ -6,13 +6,13 @@
 
 <hr style="border: 3px solid #5e81ac;">
 
-<code> Fixer, Curious, Breaking things only to fix them better.</code>
+<code> Curious Wizard <code>
 
 <div align="left">
 <h2 align="left"> 🧙‍♂️ About me </h2>
   <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120" />
 <ul>
-  <li><i>Currently</i>: CS Student at FEU Institute of Technology</li>
+  <li><i>Currently</i>: Sophomore Year CS Student</li>
   
   <li>
   <i>Currently Learning</i>:
@@ -25,7 +25,7 @@
   </li>
   
   <li>Building Linux and cloud computing skills</li>
-  <li>I like old ThinkPads, Linux, and a warm cup of tea ☕</li>
+  <li>I like ThinkPads and Linux</li>
 </ul>
 
 </div>
@@ -61,8 +61,6 @@
 
 <!-- Programming Languages -->
   <img alt="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="C++" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-  <img alt="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img alt="HTML" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 
