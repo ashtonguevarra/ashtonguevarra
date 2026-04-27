@@ -14,12 +14,6 @@
 
 - **Currently:** Sophomore CS Student
 
-- **Currently Learning**
-  - CS0017 Applied Operating Systems
-  - CS0007 Algorithms
-  - CS0021 Discrete Structures 2
-  - CCS0101 Design Thinking
-
 - Building Linux and Cloud Computing skills  
 - I like **ThinkPads and Linux**
 
