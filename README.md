@@ -12,7 +12,7 @@
 
 <img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" alt="Tux Linux Penguin" width="120"/>
 
-- **Currently:** Sophomore CS Student
+- **Currently:** Third Year CS Student
 
 - Building Linux and Cloud Computing skills  
 - I like **ThinkPads and Linux**
